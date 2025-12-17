@@ -115,15 +115,3 @@ Fake-News-Detection/
 * Web-based interface
 * Multi-language support
 
----
-
-## 👨‍💻 Author
-
-* **Your Name**
-* **Course / Lab:** AD-LAB
-
----
-
-## 📜 License
-
-This project is for **educational and academic purposes only**.
