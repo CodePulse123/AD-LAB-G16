@@ -1,0 +1,6 @@
+Dataset,Total_Samples,Real_News,Fake_News,Primary_Language,File_Size_MB
+BharatFakeNewsKosh,26232,13721,12511,English+Hindi,11.73
+WELFake,72134,35028,37106,English,21.08
+Hindi_FakeNews,10000,5000,5000,Hindi,4.61
+Gujarati_FakeNews,8000,4000,4000,Gujarati,2.12
+Multilingual_Combined,65000,3654,3346,English+Hindi+Gujarati,21.38
